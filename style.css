@@ -219,8 +219,15 @@ h2 {
     transform: scale(1.1);
 }
 
+.project-image{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
 .project-image img{
-    width: 100%;
+    width: 95%;
+    border-radius: 10px;
 }
 
 .project-card:hover .project-image{

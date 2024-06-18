@@ -302,6 +302,15 @@ h2 {
         order: 1;
     }
 
+    .ahmad {
+        border-radius: 100px;
+        border: black solid 5px;
+        margin-top: 35px;
+        margin-bottom: 20px;
+        background-color: hsl(208, 31%, 26%);
+    }
+
+
     .item1 {
         order: 2;
     }
